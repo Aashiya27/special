@@ -1,0 +1,13 @@
+body {
+    background: #17243c;
+    background-image: url(./873416921501668481.jpg);
+    background-size: cover;
+    background-position: center;    
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+.overlay {
+    position: absolute;
+   inset: 0;
+    background: rgba(0, 0, 0, 0.4);
+}
